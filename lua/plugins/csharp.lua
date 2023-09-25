@@ -1,3 +1,4 @@
+-- based on https://github.com/amaanq/nvim-config
 local util = require("util")
 
 return {
